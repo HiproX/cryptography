@@ -1,0 +1,43 @@
+Signal generator
+From Wikipedia, the free encyclopedia
+Jump to navigationJump to search
+"Tone generator" redirects here. For an electronic musical instrument, see Sound module.
+A signal generator is an electronic device that generates repeating or non-repeating electronic signals in either the analog or the digital domain. It is generally used in designing, testing, troubleshooting, and repairing electronic or electroacoustic devices, though it often has artistic uses as well.
+
+There are many different types of signal generators with different purposes and applications and at varying levels of expense. These types include function generators, RF and microwave signal generators, pitch generators, arbitrary waveform generators, digital pattern generators and frequency generators. In general, no device is suitable for all possible applications.
+
+Traditionally, signal generators have been embedded hardware units, but since the age of multimedia PCs, flexible, programmable software tone generators have also been available.
+
+
+Contents
+1	General purpose signal generators
+1.1	Function generator
+1.2	Arbitrary waveform generator
+1.2.1	Technical trends driving the ARB industry
+1.3	RF and microwave signal generators
+1.3.1	Analog signal generators
+1.3.2	Vector signal generator
+1.3.3	Digital pattern generator
+2	Special purpose signal generators
+2.1	Pitch generators and audio generators
+2.1.1	Computer programs
+2.2	Video signal generator
+3	See also
+4	References
+5	External links
+General purpose signal generators
+Function generator
+
+Leader Instruments LSG-15 signal generator
+Main article: Function generator
+A function generator is a device which produces simple repetitive waveforms. Such devices contain an electronic oscillator, a circuit that is capable of creating a repetitive waveform. (Modern devices may use digital signal processing to synthesize waveforms, followed by a digital to analog converter, or DAC, to produce an analog output). The most common waveform is a sine wave, but sawtooth, step (pulse), square, and triangular waveform oscillators are commonly available as are arbitrary waveform generators (AWGs). If the oscillator operates above the audio frequency range (>20 kHz), the generator will often include some sort of modulation function such as amplitude modulation (AM), frequency modulation (FM), or phase modulation (PM) as well as a second oscillator that provides an audio frequency modulation waveform.
+
+Arbitrary waveform generator
+Main article: Arbitrary waveform generator
+An arbitrary waveform generator (AWG or ARB) is a sophisticated signal generator that generates arbitrary waveforms within published limits of frequency range, accuracy, and output level. Unlike a function generator that produces a small set of specific waveforms, an AWG allows the user to specify a source waveform in a variety of different ways. An AWG is generally more expensive than a function generator and often has less bandwidth. An AWG is used in higher-end design and test applications.
+
+Technical trends driving the ARB industry
+New high-speed DACs provide up to 16-bit resolution at sample rates in excess of 1 GS/s. These devices provide the foundation for an AWG with the bandwidth and dynamic range to address modern radio and communication applications. In combination with a quadrature modulator and advanced digital signal processing, high-speed DACs can be applied to create a full-featured vector signal generator with very high modulation bandwidth. Example applications include commercial wireless standards such as Wi-Fi (IEEE 802.11), WiMAX (IEEE 802.16) and LTE, in addition to military standards such as those specified in the Joint Tactical Radio System (JTRS) initiative. Also, broad modulation bandwidth allows multi-carrier signal generation, necessary for testing receiver adjacent channel rejection.
+
+RF and microwave signal generators
+RF (radio frequency) and microwave signal generators are used for testing components, receivers and test systems in a wide variety of applications including cellular communications, WiFi, WiMAX, GPS, audio and video broadcasting, satellite communications, radar and electronic warfare. RF and microwave signal generators normally have similar features and capabilities, but are differentiated by frequency range. RF signal generators typically range from a few kHz to 6 GHz, while microwave signal generators cover a much wider frequency range, from less than 1 MHz to at least 20 GHz. Some models go as high as 70 GHz with a direct coaxial output, and up to hundreds of GHz when used with external waveguide source modules. RF and microwave signal generators can be classified further as analog or vector signal generators.
